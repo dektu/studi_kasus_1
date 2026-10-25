@@ -1,0 +1,30 @@
+# Dataset Ukiran Bali (Citra asli berukuran besar, jangan di-push ke GitHub)
+dataset/
+**/dataset/
+*.zip
+*.tar.gz
+
+# Output data (Dibuat otomatis secara mandiri saat Notebook 01, 02, dan 03 dijalankan)
+output_data/
+**/output_data/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+venv/
+env/
+.env/
+ENV/
+
+# Editor & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
