@@ -56,3 +56,4 @@ Folder `output_data/` beserta seluruh isinya akan dibuat secara otomatis saat An
    - Melakukan pencarian parameter optimal (Elbow Method, Dendrogram Ward, K-Distance DBSCAN).
    - Menghitung metrik internal (Silhouette Score, DBI, CHI).
    - Mencocokkan klaster dengan label asli menggunakan *Hungarian Algorithm* untuk menghitung Akurasi/Purity (%), Precision, Recall, F1-Score, Confusion Matrix, dan scatter plot 2D t-SNE.
+
